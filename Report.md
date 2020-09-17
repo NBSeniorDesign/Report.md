@@ -15,7 +15,7 @@ A sample of the simulation running in the terminal after websockets were set up:
 Task 1 required that we edit one of the given documents in order to save the simulation data to a text file.
 
 Snippet of python code added to client.py in order to save JSON data to a text file in real time.
-[![client](https://github.com/jarekab/images/blob/master/Screen%20Shot%202020-09-16%20at%2019.26.55.png)
+![client](https://github.com/jarekab/images/blob/master/Screen%20Shot%202020-09-16%20at%2019.26.55.png)
 
 ## Task 2: Analysis
 
@@ -24,10 +24,10 @@ We were tasked with finding the mean, variance, and probability distribution of 
 
 The following screenshots are pictures of my code that I used to determine the required information:
 
-[![part21](https://github.com/jarekab/images/blob/master/part2-1.png)
-[![part22](https://github.com/jarekab/images/blob/master/part2-2.png)
-[![part23](https://github.com/jarekab/images/blob/master/part2-3.png)
-[![part24](https://github.com/jarekab/images/blob/master/part2-4.png)
+![part21](https://github.com/jarekab/images/blob/master/part2-1.png)
+![part22](https://github.com/jarekab/images/blob/master/part2-2.png)
+![part23](https://github.com/jarekab/images/blob/master/part2-3.png)
+![part24](https://github.com/jarekab/images/blob/master/part2-4.png)
 
 It is worth noting that the time interval probability distribution looks similar to that of a binomial distribution.
 
@@ -37,8 +37,8 @@ Part 3 required that we write our own code entirely that implements an algorithm
 
 The following screenshots depict the written code as well as the results of that code.
 
-[![part31](https://github.com/jarekab/images/blob/master/Screen%20Shot%202020-09-15%20at%2021.21.42.png)
-[![part32](https://github.com/jarekab/images/blob/master/Screen%20Shot%202020-09-15%20at%2021.21.50.png)
+![part31](https://github.com/jarekab/images/blob/master/Screen%20Shot%202020-09-15%20at%2021.21.42.png)
+![part32](https://github.com/jarekab/images/blob/master/Screen%20Shot%202020-09-15%20at%2021.21.50.png)
 
 When ran, the code written for part 3 prints out every line where a temperature anomaly was detected.
 To determine what was considered an anomaly, I googled the average temperature for each room type.
