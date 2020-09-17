@@ -1,4 +1,4 @@
-# 2020-Sensor-Miniproject
+## 2020-Sensor-Miniproject
 # Jarek Bartel & Nicholas Bart
 
 The Fall 2020 Senior Design practice project involves using simulated sensors to test the overall temperature, occupancy, and CO2 level in a specified room at a specific time. 
