@@ -1,5 +1,3 @@
-# Report.md
-
 # 2020-Sensor-Miniproject
 # Jarek Bartel & Nicholas Bart
 
