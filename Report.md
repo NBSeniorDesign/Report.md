@@ -8,7 +8,7 @@ The Fall 2020 Senior Design practice project involves using simulated sensors to
 The greeting string issued by the server to the client is “ECE Senior Capstone IoT simulator”.
 
 A sample of the simulation running in the terminal after websockets were set up:
-[![Simulation](https://github.com/jarekab/images/blob/master/Screen%20Shot%202020-09-11%20at%2014.25.55.png)
+![Simulation](https://github.com/jarekab/images/blob/master/Screen%20Shot%202020-09-11%20at%2014.25.55.png)
 
 ## Task 1: Data Flow
 
